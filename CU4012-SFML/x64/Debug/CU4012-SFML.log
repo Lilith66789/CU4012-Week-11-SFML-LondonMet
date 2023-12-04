@@ -1,2 +1,15 @@
-﻿  Main.cpp
-  CU4012-SFML.vcxproj -> C:\Users\raouy\OneDrive\Documents\CU4012-GamesProgramming\CU4012-SFML\x64\Debug\CU4012-SFML.exe
+﻿  Level.cpp
+C:\Users\wpc0006\Documents\CU4012-Week-11-SFML-LondonMet\CU4012-SFML\Level.cpp(32,43): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\wpc0006\Documents\CU4012-Week-11-SFML-LondonMet\CU4012-SFML\Level.cpp(63,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\wpc0006\Documents\CU4012-Week-11-SFML-LondonMet\CU4012-SFML\Level.cpp(63,27): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Main.cpp
+  Generating Code...
+  CU4012-SFML.vcxproj -> C:\Users\wpc0006\Documents\CU4012-Week-11-SFML-LondonMet\x64\Debug\CU4012-SFML.exe
